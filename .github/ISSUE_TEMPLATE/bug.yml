@@ -1,10 +1,11 @@
 name: Bug report
-description: Report a reproducible problem / Relatar problema / Informar un problema
+description: Show us where it broke / Mostra onde quebrou / Muestra dónde falló
 labels: [bug]
 body:
   - type: markdown
     attributes:
-      value: Use English, português or español. Report app-specific bugs in that app's repository. Remove credentials and personal data from logs.
+      value: Show the steps and the evidence. / Mostra o caminho e o registro. / Trae los pasos y la prueba. Use your language.
+        File app bugs in that app’s repo. Remove credentials and personal data.
   - type: input
     id: revision
     attributes:
@@ -14,13 +15,15 @@ body:
   - type: textarea
     id: reproduce
     attributes:
-      label: Steps, expected result and actual result
+      label: What did you do, what should happen, what actually happened?
+      description: Give us a short reproducer. / Manda o passo a passo. / Deja pasos que podamos repetir.
     validations:
       required: true
   - type: textarea
     id: environment
     attributes:
-      label: Console or PC setup, logs and screenshots
-      description: Include console model, homebrew environment and artifact hash if known. Do not attach unlock payloads or keys.
+      label: What were you running? Bring the record.
+      description: Console model/setup, version/source/hash, and log/photo/video. For PC or tooling issues, name that environment.
+        No keys or unlock payloads.
     validations:
       required: true
