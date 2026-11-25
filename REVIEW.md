@@ -4,7 +4,7 @@ The [catalog](https://github.com/revive360/catalog) is the source of truth. Memb
 
 | Level | Scope and release | Lifetime |
 | --- | --- | --- |
-| **Revive360 Project** | Repository inside `revive360`; organization rules, security, review and signed/attested CI releases. Green mascot badge, strongest level. | Continuous while compliant; revocable. |
+| **Revive360 Project** | Repository inside `revive360`; organization rules, security, review and signed/attested CI releases. Dark compact mascot badge with a neon-green outline plus an exclusive circular Project medal, strongest level. | Continuous while compliant; revocable. |
 | **Reviewed · vX.Y.Z** | Repository stays with its author. Only the recorded version, source and artifact hash were reviewed on the recorded date. Author builds; org checks the hash and its correspondence to the checked source. | New versions return to the manual queue; badge says **current version not reviewed**. No org update channel. |
 | **Community list** | Discovery only, below both reviewed sections; no badge, verification or recommendation. | May be removed at any time. |
 
@@ -43,6 +43,6 @@ Unauthorized name/badge use is misuse: link to the catalog record or its absence
 
 ## Temporary contact
 
-Security: affected repo **Security and quality → Report a vulnerability**, or [org private reporting](https://github.com/revive360/.github/security/advisories/new). Public questions: [issues](https://github.com/revive360/.github/issues) or Discussions when enabled. If private reporting is not enabled, request a private channel without sensitive details.
+Security: affected repo **Security and quality → Report a vulnerability**, or [org private reporting](https://github.com/revive360/.github/security/advisories/new). Public questions: [official Revive360 Discussions](https://github.com/orgs/revive360/discussions), sourced from `.github`. Formal review requests retain their catalog issue records. If private reporting is not enabled, request a private channel without sensitive details.
 
 `CONTACT_DECEMBER_2026_TODO`: replace GitHub routes with the owner's confirmed email/domain in December; none is invented here.

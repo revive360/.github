@@ -6,7 +6,7 @@
 
 ## Catalog and three levels
 
-- **Revive360 Project** — repository inside [revive360](https://github.com/revive360), organization rules/security, reviewed PRs and signed/attested CI releases; continuous status while compliant. Green mascot badge, strongest level.
+- **Revive360 Project** — repository inside [revive360](https://github.com/revive360), organization rules/security, reviewed PRs and signed/attested CI releases; continuous status while compliant. Dark/neon-green compact mascot badge and exclusive Project medal, strongest level.
 - **Reviewed · vX.Y.Z** — external author's repository, only that reviewed version/hash/date. New or replaced binaries return to a lower-priority manual FIFO queue (target 14 days); **current version not reviewed** until accepted. Author builds, org verifies the hash and source linkage; no org update channel. If the author disappears, the badge expires.
 - **Community list** — discovery without a badge: **Not verified by Revive360; not a recommendation; use at your own risk.** Entries may be removed at any time.
 
@@ -39,6 +39,6 @@ Only founder Pedro is an owner today. Members start with minimum access and grow
 
 **Homebrew risks Xbox Live account/console bans, data loss and console damage; use at your own risk.** No collection without opt-in; login/tokens stay on the console. Third-party terms risk belongs to the author; DRM/paywall bypass is forbidden.
 
-Until December use private vulnerability reporting for security and org issues/Discussions for public contact. `CONTACT_DECEMBER_2026_TODO`: add the confirmed org email/domain later.
+The official community channel is [Revive360 Discussions](https://github.com/orgs/revive360/discussions), sourced from `.github`; no Discord at launch. Categories: Announcements, App ideas, Help, Show and tell. Use issues/PRs for actionable bugs and formal review/admission records. Until December use private vulnerability reporting for security and Discussions for public contact. `CONTACT_DECEMBER_2026_TODO`: add the confirmed org email/domain later.
 
 Xbox and Xbox 360 are trademarks of Microsoft. Revive360 is independent and is not affiliated with or endorsed by Microsoft, Google or the projects credited above.

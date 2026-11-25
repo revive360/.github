@@ -4,7 +4,7 @@
 
 Pedro ([PedroHenrique0713](https://github.com/PedroHenrique0713)) is the founder and **only organization owner today**. The org already exists as [`revive360`](https://github.com/revive360). He manages membership, security and moderation. Each project names its owner/maintainers in its README and decides its roadmap within these rules. Start members with no base repository access; grant read/triage/write only as needed. Increase access through contribution history and security practice. Nobody becomes an owner just because a seat is vacant.
 
-Use a public issue for ordinary decisions and record the outcome. Discuss in Portuguese, Spanish or English. For a disputed project decision, ask the project owner to review it; for membership, moderation or an organization rule, ask the steward. If a complaint concerns the steward, request an uninvolved maintainer to review it; while there is no other maintainer, the organization cannot promise an independent appeal panel.
+Use the official [Revive360 Discussions](https://github.com/orgs/revive360/discussions) for community proposals and ordinary governance discussion; record accepted decisions with their effective dates and link relevant issue/PR records. The source is the `.github` repository, with no Discord at launch. Discuss in Portuguese, Spanish or English. For a disputed project decision, ask the project owner to review it; for membership, moderation or an organization rule, ask the steward. If a complaint concerns the steward, request an uninvolved maintainer to review it; while there is no other maintainer, the organization cannot promise an independent appeal panel.
 
 The founder decides rule changes after a public proposal and **14 calendar days' notice**, recording feedback, decision and effective date in all existing translations. Emergency security restrictions/revocations are immediate, followed by a safe public explanation and review. This notice period is the initial operating policy and can change through this process.
 
@@ -46,4 +46,4 @@ The author may take the project back to their account. Revoke its Project status
 
 The org currently **receives no donations and splits no donations**. Individual authors' arrangements are theirs and cannot be presented as the org's pool.
 
-Until December 2026 use private vulnerability reporting for security, issues/Discussions for public governance, and a request for a private channel for conduct reports. `CONTACT_DECEMBER_2026_TODO`: add only the owner's confirmed email/domain when available.
+Until December 2026 use private vulnerability reporting for security, [official Discussions](https://github.com/orgs/revive360/discussions) for public governance, and a request for a private channel for conduct reports. `CONTACT_DECEMBER_2026_TODO`: add only the owner's confirmed email/domain when available.

@@ -2,6 +2,8 @@
 
 Português, español and English are welcome in issues, reviews and documentation. Membership is not required. Ask for translation when needed.
 
+The official community channel is [Revive360 Discussions](https://github.com/orgs/revive360/discussions), with `.github` as its source repository; no Discord at launch. Use **Announcements / Anúncios**, **App ideas / Ideias de apps**, **Help / Ajuda** and **Show and tell / Mostre seu projeto**. Discuss ideas/help there; use issues/PRs for actionable bugs and formal review/membership records. Vulnerabilities stay in private reporting.
+
 1. Read the [rules](profile/README.md#rules), [governance](GOVERNANCE.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
 2. Use the bug, app proposal or membership issue template. For a change to an existing app, work in that app's repository and follow its contribution guide.
 3. Keep pull requests focused. Explain the problem, the changed behavior, how you checked it and remaining limitations. Include the origin and license of new dependencies or copied code. Do not paste secrets or personal configuration into an issue.

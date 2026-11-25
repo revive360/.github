@@ -2,11 +2,13 @@
 
 For a vulnerability in an app, use that project's Security tab and **Report a vulnerability** if available. For an organization-wide issue, use this repository's private vulnerability reporting. Describe affected revisions, impact and a minimal reproduction without credentials, keys, personal data or suspected leaked material. Reports in Portuguese, Spanish or English are welcome.
 
-If private reporting is unavailable, use [org issues](https://github.com/revive360/.github/issues) only to request a private channel, with no sensitive details. Never post exploits or secrets publicly. Security reports at **every level** receive an initial response within **48 hours**; this is not a fix deadline. Severe issues trigger immediate revocation and suspension of unsafe downloads. No bounty is offered. See [review scope and lifecycle](REVIEW.md).
+If private reporting is unavailable, use [official Discussions](https://github.com/orgs/revive360/discussions) only to request a private channel, with no sensitive details. Never post exploits or secrets publicly. Security reports at **every level** receive an initial response within **48 hours**; this is not a fix deadline. Severe issues trigger immediate revocation and suspension of unsafe downloads. No bounty is offered. See [review scope and lifecycle](REVIEW.md).
 
 We review the report, agree on remediation and coordinate public disclosure with the affected owner. Each project states its supported versions; until it does, report against its latest source and identify the exact revision. Provenance concerns block redistribution of the affected material pending review.
 
 XBDM is an unauthenticated development interface. Keep it on a trusted local network. The devkit is a client; it ships no console monitor, unlock payload, keys or Microsoft SDK.
+
+Public help and community discussion use [Revive360 Discussions](https://github.com/orgs/revive360/discussions), sourced from `.github`, with no Discord at launch. Vulnerability details remain private.
 
 ## Account compromise
 

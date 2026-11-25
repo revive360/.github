@@ -8,7 +8,7 @@ Copy these notices into **every org app README**, including apps derived from th
 
 **Privacy:** No collection without explicit opt-in. Login credentials and tokens remain on your console; never send them to Revive360 or include them in issues/logs. Describe optional telemetry, purpose, destination, retention, refusal and deletion. State "No telemetry" when true.
 
-**Responsibility:** Owner: `<GitHub account>`. License: `<open license>`. Catalog record: `<verified link>`. Membership is not certification. Third-party service terms risk belongs to the author; no DRM/paywall bypass. Security: repository **Security and quality → Report a vulnerability**. Public support: issues/Discussions.
+**Responsibility:** Owner: `<GitHub account>`. License: `<open license>`. Catalog record: `<verified link>`. Membership is not certification. Third-party service terms risk belongs to the author; no DRM/paywall bypass. Security: repository **Security and quality → Report a vulnerability**. Public support: [official Discussions](https://github.com/orgs/revive360/discussions).
 
 ## Português
 
@@ -16,7 +16,7 @@ Copy these notices into **every org app README**, including apps derived from th
 
 **Privacidade:** Nada de coleta sem opt-in explícito. Login e tokens ficam no console; não os envie à Revive360 nem os inclua em issues/logs. Descreva telemetria opcional, finalidade, destino, retenção, recusa e exclusão. Declare "Sem telemetria" quando verdadeiro.
 
-**Responsabilidade:** Dono: `<conta GitHub>`. Licença: `<licença aberta>`. Ficha: `<link conferido>`. Ser membro não é selo. Risco dos termos de terceiros é do autor; nenhum bypass de DRM/paywall. Segurança: **Security and quality → Report a vulnerability**. Suporte: issues/Discussions.
+**Responsabilidade:** Dono: `<conta GitHub>`. Licença: `<licença aberta>`. Ficha: `<link conferido>`. Ser membro não é selo. Risco dos termos de terceiros é do autor; nenhum bypass de DRM/paywall. Segurança: **Security and quality → Report a vulnerability**. Suporte: [official Discussions](https://github.com/orgs/revive360/discussions).
 
 ## Español
 
@@ -24,6 +24,6 @@ Copy these notices into **every org app README**, including apps derived from th
 
 **Privacidad:** Ninguna recopilación sin opt-in explícito. El inicio de sesión y los tokens permanecen en la consola; no los envíes a Revive360 ni los incluyas en issues/logs. Describe telemetría opcional, finalidad, destino, retención, rechazo y eliminación. Declara "Sin telemetría" cuando sea cierto.
 
-**Responsabilidad:** Responsable: `<cuenta GitHub>`. Licencia: `<licencia abierta>`. Ficha: `<enlace verificado>`. Ser miembro no es certificación. Los términos de terceros son responsabilidad del autor; ningún bypass de DRM/paywall. Seguridad: **Security and quality → Report a vulnerability**. Soporte: issues/Discussions.
+**Responsabilidad:** Responsable: `<cuenta GitHub>`. Licencia: `<licencia abierta>`. Ficha: `<enlace verificado>`. Ser miembro no es certificación. Los términos de terceros son responsabilidad del autor; ningún bypass de DRM/paywall. Seguridad: **Security and quality → Report a vulnerability**. Soporte: [official Discussions](https://github.com/orgs/revive360/discussions).
 
 `CONTACT_DECEMBER_2026_TODO`: add only the confirmed org email/domain in December 2026.

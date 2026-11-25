@@ -6,7 +6,7 @@
 
 ## Catálogo y tres niveles
 
-- **Revive360 Project** — repo dentro de [revive360](https://github.com/revive360), reglas/seguridad de la org, PR revisada y releases del CI firmadas/atestadas; validez continua mientras cumpla las reglas. Sello verde con mascota, el más fuerte.
+- **Revive360 Project** — repo dentro de [revive360](https://github.com/revive360), reglas/seguridad de la org, PR revisada y releases del CI firmadas/atestadas; validez continua mientras cumpla las reglas. Sello compacto verde neón con mascota y medalla exclusiva Project, el más fuerte.
 - **Reviewed · vX.Y.Z** — repo del autor, solo versión/hash/fecha revisados. Binario nuevo o sustituido vuelve a la cola manual de menor prioridad por llegada (objetivo 14 días); **versión actual no revisada** hasta la aceptación. Autor compila, org comprueba hash y vínculo al código; sin canal de actualización de la org. Si el autor desaparece, el sello caduca.
 - **Community list** — descubrimiento sin sello: **No verificado por Revive360; no es una recomendación; úsalo bajo tu responsabilidad.** Puede retirarse en cualquier momento.
 
@@ -37,6 +37,6 @@ Hoy solo el fundador Pedro es dueño de la org. Miembros entran con acceso míni
 
 **El homebrew puede causar bloqueos en Xbox Live, pérdida de datos y daños a la consola; úsalo bajo tu responsabilidad.** Ninguna recopilación sin opt-in; login/tokens permanecen en la consola. Términos de terceros a cargo del autor; prohibido romper DRM/paywall.
 
-Hasta diciembre, seguridad por private vulnerability reporting y contacto público por issues/Discussions. `CONTACT_DECEMBER_2026_TODO`: añadir email/dominio confirmados después.
+El canal oficial es [Revive360 Discussions](https://github.com/orgs/revive360/discussions), con `.github` como fuente; sin Discord al inicio. Categorías: Anuncios, Ideas de apps, Ayuda y Muestra tu proyecto. Issues/PRs para errores y registros formales de revisión/admisión. Hasta diciembre, seguridad por private vulnerability reporting y contacto público por Discussions. `CONTACT_DECEMBER_2026_TODO`: añadir email/dominio confirmados después.
 
 Xbox y Xbox 360 son marcas de Microsoft. Revive360 es independiente y no está afiliada ni avalada por Microsoft, Google o los proyectos mencionados.

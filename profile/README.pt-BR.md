@@ -6,7 +6,7 @@
 
 ## Catálogo e três níveis
 
-- **Revive360 Project** — repo dentro de [revive360](https://github.com/revive360), regras/segurança da org, PR revisado e release do CI assinada/atestada; validade contínua enquanto cumprir as regras. Selo verde com mascote, o mais forte.
+- **Revive360 Project** — repo dentro de [revive360](https://github.com/revive360), regras/segurança da org, PR revisado e release do CI assinada/atestada; validade contínua enquanto cumprir as regras. Selo de linha verde neon com mascote e medalha exclusiva Project, o mais forte.
 - **Reviewed · vX.Y.Z** — repo do autor, só versão/hash/data revisados. Binário novo ou substituído volta à fila manual de menor prioridade, por chegada (alvo 14 dias); **versão atual não revisada** até o aceite. Autor compila, org confere hash e vínculo com fonte; sem canal de atualização da org. Se o autor sumir, o selo expira.
 - **Community list** — descoberta sem selo: **Não verificado pela Revive360, não é recomendação, use por sua conta e risco.** Pode sair a qualquer momento.
 
@@ -37,6 +37,6 @@ Hoje só o fundador Pedro é dono da org. Membros entram com acesso mínimo e so
 
 **Homebrew pode causar banimento no Xbox Live, perda de dados e dano ao console; use por sua conta e risco.** Nada de coleta sem opt-in; login/tokens ficam no console. Risco dos termos de terceiros é do autor; proibido quebrar DRM/paywall.
 
-Até dezembro, segurança por private vulnerability reporting e contato público por issues/Discussions da org. `CONTACT_DECEMBER_2026_TODO`: inserir depois e-mail/domínio confirmados.
+O canal oficial da comunidade é [Revive360 Discussions](https://github.com/orgs/revive360/discussions), com `.github` como fonte; sem Discord no começo. Categorias: Anúncios, Ideias de apps, Ajuda e Mostre seu projeto. Issues/PRs ficam para bugs acionáveis e registros formais de revisão/entrada. Até dezembro, segurança por private vulnerability reporting e contato público por Discussions. `CONTACT_DECEMBER_2026_TODO`: inserir depois e-mail/domínio confirmados.
 
 Xbox e Xbox 360 são marcas da Microsoft. A Revive360 é independente, sem vínculo ou endosso da Microsoft, Google ou dos projetos agradecidos.
