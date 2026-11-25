@@ -8,6 +8,47 @@ Use the official [Revive360 Discussions](https://github.com/orgs/revive360/discu
 
 The founder decides rule changes after a public proposal and **14 calendar days' notice**, recording feedback, decision and effective date in all existing translations. Emergency security restrictions/revocations are immediate, followed by a safe public explanation and review. This notice period is the initial operating policy and can change through this process.
 
+## Roles, authority and access
+
+Organization policy takes precedence over project decisions. Organization owners decide organization membership, security controls, shared rules and disputes about their application. A project maintainer decides the project's technical direction, reviews and releases within those rules. A project maintainer cannot waive organization requirements. Decisions and their reasons must be recorded by the authority responsible for them.
+
+| Role | Scope and responsibility |
+| --- | --- |
+| Organization owner | Organization policy, membership, permissions, moderation and final organization-level decisions. Only Pedro holds this role today. |
+| Project maintainer | The named project's roadmap, review, issues, security follow-up and releases, subject to organization policy and granted repository permissions. |
+| Member | Organization participant with only the repository access explicitly granted. Membership confers neither maintainership nor a catalog badge. |
+| Contributor | A person submitting code, documentation, tests or reports. Organization membership is not required; contributions alone grant no repository access. |
+
+Access and role changes require an explicit invitation or approval from an authorized person above the requested role. Maintainers may recommend contributors and project access within their scope; organization owners approve organization membership and maintainer appointments. Only an existing organization owner may appoint another owner. These are authority rules, not automatic GitHub role mappings.
+
+Assess contribution quality, technical understanding, reliability, collaboration, security practice and sustained participation. There is no PR-count formula, automatic promotion, entitlement through tenure or appointment to fill a vacancy. Grant the minimum access needed, record the inviter/approver, scope and reason, and review it when responsibilities change.
+
+Access may be reduced or removed on request, departure, loss of the relevant responsibility, sustained inactivity, loss of trust supported by documented conduct, a rule violation or an account compromise. Severe security/provenance violations may require immediate suspension and removal. The responsible maintainer may restrict access within their granted authority; organization owners decide organization membership/roles and any remaining access action. Record the reason and affected scope without exposing private reports or secrets. Departure and archival rules below still apply.
+
+## Contesting a decision
+
+Ask the responsible maintainer to reconsider a project decision, linking the decision and supplying technical evidence or the relevant policy. If unresolved, or if organization policy/permissions are involved, request review by an organization owner. An organization-level decision is reconsidered by the organization owner; organization authority takes precedence over project authority. Use Discussions for public matters and a private channel for security or personal conduct details.
+
+If a complaint concerns the founder, request input from an uninvolved maintainer where one is available. With one owner, no independent appeal panel is promised. Record the final decision and rationale. Contesting a decision does not itself restore suspended access or waive release/security requirements. Technical disagreement is permitted; personal attacks are not.
+
+## House rules — normative version
+
+The public profiles use informal language. The numbered requirements below are the normative version of the same eleven rules.
+
+1. **Functional contributions.** Application code submitted for review must run on a real Xbox 360. Nonfunctioning application code is not ready for a PR.
+2. **Contribution quality.** AI tools are permitted. Submissions must not contain code the author cannot explain, unreviewably large changes without tests, generic emoji-heavy documentation or a renamed template presented as a distinct new application.
+3. **Human accountability.** The signing contributor is responsible for submitted work, including AI-assisted code, and must answer technical review questions. Tool output is not an excuse for defects or unknown provenance.
+4. **Distinct purpose.** An app proposal must identify a capability not served by existing apps or a concrete improvement over them. A redundant clone without a justified difference is not admitted.
+5. **Open and lawful inputs.** Use original code or compatible open code. Pirated software, games, keys, leaked SDKs and distributed exploits are prohibited. Submitting prohibited material results in removal of access and exclusion from participation; preserve safe evidence and the right to contest the decision above. Console preparation remains outside the organization.
+6. **Real-console release evidence.** No release may be published without a log, photograph, video or other record from a real Xbox 360, tied to the tested source revision and artifact hash. PC/emulator output alone does not satisfy this requirement.
+7. **Respectful disagreement.** Humor and technical criticism are permitted. Personal attacks are prohibited. Criticism must address the work with technical reasons and comply with the Code of Conduct.
+8. **Project ownership.** Each project must have an accountable owner who handles its issues and security findings. Organization response priorities and review obligations remain in force.
+9. **Attribution and licenses.** Preserve authorship, credit third-party work and comply with the applicable licenses and notices.
+10. **Decision hierarchy.** Organization owners have final authority for the organization; the responsible maintainer has final authority within a project, subject to organization policy. Discussion does not transfer decision authority.
+11. **Qualitative advancement.** Access and roles are granted by invitation based on quality, trust and real contribution. No fixed contribution count, automatic promotion or vacant role creates an entitlement to access or ownership.
+
+For PRs, require the problem and rationale, a reviewable scope, relevant test evidence and an author able to answer questions about the code. Console-affecting application changes require real-console evidence identifying source/hash and log/photo/video. Non-runtime changes must state the applicable verification and why console execution does not apply. Return incomplete submissions with the missing objective items; personal taste alone is not a review criterion. No numerical PR-size or contribution-count promotion threshold is introduced.
+
 ## Joining and admitting a project
 
 The [three levels and review limits](REVIEW.md) govern catalog admission. **Revive360 Project** requires a repo inside the org; **Reviewed · vX.Y.Z** covers only a specific external version/hash/date; **Community list** is unverified discovery with no badge. Membership is not a seal. The org takes operational responsibility only for its repos and the external versions reviewed within the published scope. A member's unlisted repo belongs solely to its author. Software is as is under its license; unauthorized name/badge use is misuse, contradicted by the catalog.
