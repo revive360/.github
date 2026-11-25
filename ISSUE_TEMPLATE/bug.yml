@@ -1,0 +1,26 @@
+name: Bug report
+description: Report a reproducible problem / Relatar problema / Informar un problema
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Use English, português or español. Report app-specific bugs in that app's repository. Remove credentials and personal data from logs.
+  - type: input
+    id: revision
+    attributes:
+      label: Project and version / Projeto e versão / Proyecto y versión
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps, expected result and actual result
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Console or PC setup, logs and screenshots
+      description: Include console model, homebrew environment and artifact hash if known. Do not attach unlock payloads or keys.
+    validations:
+      required: true

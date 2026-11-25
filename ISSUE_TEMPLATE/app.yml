@@ -1,0 +1,38 @@
+name: App proposal
+description: Propose a new open app / Propor app / Proponer aplicación
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: English, português and español welcome. Read GOVERNANCE.md. No piracy, games, keys, leaked SDKs or exploit distribution.
+  - type: textarea
+    id: idea
+    attributes:
+      label: App, intended users and first useful version
+    validations:
+      required: true
+  - type: input
+    id: owner
+    attributes:
+      label: Accountable owner and source repository (if any)
+    validations:
+      required: true
+  - type: textarea
+    id: provenance
+    attributes:
+      label: Proposed license, dependencies and their sources/licenses
+    validations:
+      required: true
+  - type: textarea
+    id: hardware
+    attributes:
+      label: Real console testing plan
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Agreement
+      options:
+        - label: I accept the organization rules and am authorized to propose this project's entry.
+          required: true

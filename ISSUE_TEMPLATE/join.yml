@@ -1,0 +1,26 @@
+name: Join Revive360
+description: Request membership / Pedir entrada / Solicitar membresía
+body:
+  - type: markdown
+    attributes:
+      value: Use English, português or español. Contributing does not require membership. Do not post private contact details.
+  - type: textarea
+    id: contribution
+    attributes:
+      label: What would you like to build or maintain?
+    validations:
+      required: true
+  - type: textarea
+    id: work
+    attributes:
+      label: Relevant work, project ownership and hardware access
+      description: Links are welcome; beginners can describe their plan. A project needs its owner's consent before joining.
+    validations:
+      required: true
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Agreement
+      options:
+        - label: I have read the rules, governance and Code of Conduct and accept responsibility for my contributions, including AI-assisted code.
+          required: true
