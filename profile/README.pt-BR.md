@@ -4,9 +4,17 @@
 
 [English](README.md) · [Español](README.es.md)
 
-## Projetos
+## Catálogo e três níveis
 
-- [Tube360](https://github.com/PedroHenrique0713/tube360) — app nativo de YouTube. Dono: [Pedro](https://github.com/PedroHenrique0713). MIT. O repositório continua na conta do autor; esta listagem não o transfere.
+- **Revive360 Project** — repo dentro de [revive360](https://github.com/revive360), regras/segurança da org, PR revisado e release do CI assinada/atestada; validade contínua enquanto cumprir as regras. Selo verde com mascote, o mais forte.
+- **Reviewed · vX.Y.Z** — repo do autor, só versão/hash/data revisados. Binário novo ou substituído volta à fila manual de menor prioridade, por chegada (alvo 14 dias); **versão atual não revisada** até o aceite. Autor compila, org confere hash e vínculo com fonte; sem canal de atualização da org. Se o autor sumir, o selo expira.
+- **Community list** — descoberta sem selo: **Não verificado pela Revive360, não é recomendação, use por sua conta e risco.** Pode sair a qualquer momento.
+
+O [catálogo](https://github.com/revive360/catalog) é a fonte da verdade; os selos levam às fichas e mostram válido, versão atual não revisada, expirado ou revogado. Ser membro não é selo. A org assume responsabilidade operacional pelos repos dela e pelas versões externas revisadas, no escopo documentado; repo de membro fora do catálogo é só do autor. Nome/selo sem ficha é uso indevido. Revisão não é auditoria completa; software **como está**, sem garantia pelo selo.
+
+**Tube360** — app nativo de YouTube, MIT, dono [Pedro](https://github.com/PedroHenrique0713). O [repo real](https://github.com/PedroHenrique0713/tube360) continua na conta do autor. O registro Project no catálogo local é **demonstração de um estado futuro dentro da org**, sem transferência ou certificação real. Nenhum outro app real está listado.
+
+Segurança em qualquer nível: resposta em **48 h**, revogação imediata se grave. Releases Project seguem o CI automático após revisão e teste do binário exato em console real; revisão externa por chegada, alvo **14 dias**; Community quando der. Ninguém revisa o próprio app **exceto o fundador Pedro**, inclusive no nível máximo. Veja [checklist e limites](../REVIEW.md).
 
 ## Regras
 
@@ -22,5 +30,13 @@
 Abra uma issue **App proposal** ou **Join Revive360** neste repositório. Informe o app, a pessoa responsável, a licença e a origem das dependências. Projeto existente só entra com a concordância do dono. Não é preciso ser membro para contribuir. Leia [CONTRIBUTING](../CONTRIBUTING.md), [GOVERNANCE](../GOVERNANCE.md) e o [Código de Conduta](../CODE_OF_CONDUCT.md); aceitamos discussão nos três idiomas.
 
 Obrigado a [xenosworks](https://github.com/xenosworks), pelos projetos [xsdk](https://github.com/xenosworks/xsdk), [vulkan4xenon](https://github.com/xenosworks/vulkan4xenon) e [SDL-xenon](https://github.com/xenosworks/SDL-xenon), e a [Free60/libxenon](https://github.com/Free60Project/libxenon). A Revive360 complementa esse trabalho e preserva seus créditos.
+
+## Pessoas, risco e contato
+
+Hoje só o fundador Pedro é dono da org. Membros entram com acesso mínimo e sobem por histórico; não há promoção automática a dono. DCO obrigatório. O fundador decide mudanças de regras com 14 dias de aviso público; urgências de segurança são imediatas. O autor pode levar seu projeto de volta; arquivamento após 12 meses parado ou por violação. A org não recebe nem divide doações por enquanto.
+
+**Homebrew pode causar banimento no Xbox Live, perda de dados e dano ao console; use por sua conta e risco.** Nada de coleta sem opt-in; login/tokens ficam no console. Risco dos termos de terceiros é do autor; proibido quebrar DRM/paywall.
+
+Até dezembro, segurança por private vulnerability reporting e contato público por issues/Discussions da org. `CONTACT_DECEMBER_2026_TODO`: inserir depois e-mail/domínio confirmados.
 
 Xbox e Xbox 360 são marcas da Microsoft. A Revive360 é independente, sem vínculo ou endosso da Microsoft, Google ou dos projetos agradecidos.

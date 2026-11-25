@@ -8,6 +8,9 @@ Português, español and English are welcome in issues, reviews and documentatio
 4. Respect the receiving project's license. Organization membership does not grant permission to relicense someone else's code.
 5. AI assistance is allowed. Read, understand and verify generated code and its provenance yourself. The human contributor remains accountable; an AI output is not evidence of authorship or license compatibility.
 
+6. Sign every contribution commit with `git commit -s`. The `Signed-off-by: Name <email>` trailer certifies the [Developer Certificate of Origin 1.1](https://developercertificate.org/); it is distinct from cryptographic signing. Use your contribution identity, never sign for someone else and preserve prior sign-offs. Check every PR commit, not only the tip; preserve sign-offs when squashing/merging.
+7. Follow [REVIEW.md](REVIEW.md): no self-review except founder Pedro, including at the maximum level, with the exception recorded. External requests are FIFO with a 14-day target; security response is 48 hours. Community entries have no badge.
+
 Before a binary release, the project owner records the source commit, build inputs, binary hash, real console setup and results. PC builds and emulator runs are useful evidence, but do not satisfy the console release rule. Mark untested builds as development artifacts, not releases.
 
 Do not submit piracy, games, keys, leaked Microsoft SDK material or exploits. Console unlocking and installation of BadUpdate/RGH are outside our scope. Report a provenance concern privately using [SECURITY](SECURITY.md), without attaching the suspected material.

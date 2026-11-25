@@ -2,6 +2,21 @@ name: App proposal
 description: Propose a new open app / Propor app / Proponer aplicación
 labels: [enhancement]
 body:
+  - type: dropdown
+    id: level
+    attributes:
+      label: Requested level
+      options:
+        - Revive360 Project (org repository)
+        - Reviewed version (external author repository)
+        - Community list (unverified, no badge)
+    validations:
+      required: true
+  - type: textarea
+    id: release
+    attributes:
+      label: Version, source commit, artifact URL and SHA-256 (required for review)
+      description: Include dependency/build provenance, console test evidence for this exact binary, and author consent. External reviews are FIFO, target 14 days; membership is not a badge.
   - type: markdown
     attributes:
       value: English, português and español welcome. Read GOVERNANCE.md. No piracy, games, keys, leaked SDKs or exploit distribution.
