@@ -1,4 +1,6 @@
-# CI capacity on GitHub Free
+# CI: build once, keep the bill in view
+
+Let the apps share the toolchain. Start with the limits, keep runs focused and retain the build evidence.
 
 Checked against official GitHub documentation on **2026-11-25**. These are published limits, not a read of Revive360's account/billing dashboard. Recheck before enabling paid capacity.
 

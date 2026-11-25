@@ -1,6 +1,6 @@
-# Required app README sections
+# App README: put the facts on the page
 
-Copy these notices into **every org app README**, including apps derived from the devkit. Fill owner, license, catalog record and support scope. Badges come from approved catalog data; never use a demonstration badge as certification. [Review policy](REVIEW.md).
+Copy these notices before you ship. They belong in **every org app README**, including apps derived from the devkit. Fill owner, license, catalog record and support scope. Badges come from approved catalog data; never use a demonstration badge as certification. [Review policy](REVIEW.md).
 
 ## English
 

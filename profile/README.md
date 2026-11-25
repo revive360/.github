@@ -1,6 +1,6 @@
 # Revive360
 
-**New, open software for a twenty-year-old console.** We build real apps for today's Xbox 360, from scratch and in the open, using the existing homebrew ecosystem.
+**The 360 still has work to do. Bring good code.** We build new, open apps for Xbox 360. Show the source, test it on hardware and credit the folks who made this possible.
 
 [Português](README.pt-BR.md) · [Español](README.es.md)
 
@@ -18,20 +18,25 @@ Security at every level receives a response in **48 hours**, with immediate revo
 
 ## Rules
 
-1. Only open code written by members, or open libraries with compatible licenses.
-2. No piracy, games, keys, leaked Microsoft SDKs or distributed exploits. BadUpdate/RGH are prerequisites managed by users, outside this organization.
-3. Each project has an owner and its own license. MIT, GPL and other open licenses can coexist; moving code between projects must respect its license.
-4. Every release is tested on a real console.
-5. AI tools are allowed. Whoever signs off on the code is responsible for it.
-6. The community works in Portuguese, Spanish and English. Use whichever you speak; translation help is welcome.
+1. **No junk gets in.** If it doesn't run on a real 360, don't open a PR.
+2. **Use all the AI you want. No slop.** Bring work you can stand behind. Slop means code you can't explain, a huge PR with no tests, an emoji-packed generic README, or a template renamed and called a new app.
+3. **“The AI did it” isn't a pass.** You signed it, you own it. If the reviewer asks, you answer.
+4. **Bring something new.** Before pitching an app, show what it does that nothing else does, or why yours does it better. A clone of a clone doesn't make the cut.
+5. **No piracy here.** Use open code or write your own. No pirated software, games, keys or leaked SDKs. Bring that in and you're out.
+6. **Real hardware or it didn't happen.** No release without a log, photo, video or another record from a real 360.
+7. **Banter is fine. Personal attacks aren't.** Joke around. Disagree. Back your criticism with technical reasons and leave the person out of it.
+8. **Your app, your responsibility.** Its owner handles the issues and security holes.
+9. **Credit is non-negotiable.** Credit the people whose code you use and respect the license.
+10. **Know who makes the call.** Org owners decide for the org; the maintainer decides for the project. Have the discussion. The person responsible gets the final call.
+11. **Step up by showing up.** Access and roles grow through quality, trust and real contribution, by invitation from someone above that role. There's no “X PRs gets you a promotion” deal. Nothing automatic, and an empty seat earns nobody a title.
 
-## Build something or join
+## Bring something worth building
 
-Open an **App proposal** or **Join Revive360** issue in this repository. Describe the app, the person responsible, the proposed license and the sources of its dependencies. Existing projects join only with their owner's agreement. Contributing does not require membership. Read [CONTRIBUTING](../CONTRIBUTING.md), [GOVERNANCE](../GOVERNANCE.md) and the [Code of Conduct](../CODE_OF_CONDUCT.md).
+Start in [Discussions](https://github.com/orgs/revive360/discussions). Show what your app adds and bring a working slice. When it is ready, open **App proposal** or **Join Revive360** in `.github`. Name the owner, license and dependency sources. You can contribute before joining the org. Existing projects join only with their owner’s agreement. Read [CONTRIBUTING](../CONTRIBUTING.md), [GOVERNANCE](../GOVERNANCE.md) and the [Code of Conduct](../CODE_OF_CONDUCT.md). English, português and español all work here.
 
-## Built on an existing ecosystem
+## Credit where it’s due
 
-Thank you to [xenosworks](https://github.com/xenosworks): [xsdk](https://github.com/xenosworks/xsdk), [vulkan4xenon](https://github.com/xenosworks/vulkan4xenon) and [SDL-xenon](https://github.com/xenosworks/SDL-xenon), and to [Free60/libxenon](https://github.com/Free60Project/libxenon). Their work makes this possible. Revive360 complements these projects; it does not replace or claim their work.
+This crew did not start from zero. Thanks to [xenosworks](https://github.com/xenosworks): [xsdk](https://github.com/xenosworks/xsdk), [vulkan4xenon](https://github.com/xenosworks/vulkan4xenon) and [SDL-xenon](https://github.com/xenosworks/SDL-xenon), and to [Free60/libxenon](https://github.com/Free60Project/libxenon). Their work makes this possible. Revive360 complements these projects; it does not replace or claim their work.
 
 ## People, risk and contact
 
