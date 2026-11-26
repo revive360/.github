@@ -1,20 +1,32 @@
-# Revive360
+<p align="center"><img src="../assets/banner.svg" alt="Revive360: apps novos para um console de 20 anos. Traz código bom." width="100%"></p>
+
+<p align="center"><a href="README.md">English</a> · <b>Português</b> · <a href="README.es.md">Español</a></p>
 
 **O 360 tá vivo. Cola pra construir.** A gente faz app novo e aberto pro Xbox 360. Fonte na mesa, teste no console e crédito pra quem abriu o caminho.
 
-[English](README.md) · [Español](README.es.md)
+## Código da casa
 
-## Catálogo e três níveis
+**Coisa nova para um console velho.** O 360 tem 20 anos. A gente faz app para ele como se tivesse saído ontem, e segue mandando atualização.
 
-- **Revive360 Project** — repo dentro de [revive360](https://github.com/revive360), regras/segurança da org, PR revisado e release do CI assinada/atestada; validade contínua enquanto cumprir as regras. Selo de linha verde neon com mascote e medalha exclusiva Project, o mais forte.
-- **Reviewed · vX.Y.Z** — repo do autor, só versão/hash/data revisados. Binário novo ou substituído volta à fila manual de menor prioridade, por chegada (alvo 14 dias); **versão atual não revisada** até o aceite. Autor compila, org confere hash e vínculo com fonte; sem canal de atualização da org. Se o autor sumir, o selo expira.
-- **Community list** — descoberta sem selo: **Não verificado pela Revive360, não é recomendação, use por sua conta e risco.** Pode sair a qualquer momento.
+**Não é clube de playboy.** Ninguém aqui liga para a tua faculdade, o teu setup ou o teu sobrenome. Código e o console rodando, essa é a entrada.
 
-O [catálogo](https://github.com/revive360/catalog) é a fonte da verdade; os selos levam às fichas e mostram válido, versão atual não revisada, expirado ou revogado. Ser membro não é selo. A org assume responsabilidade operacional pelos repos dela e pelas versões externas revisadas, no escopo documentado; repo de membro fora do catálogo é só do autor. Nome/selo sem ficha é uso indevido. Revisão não é auditoria completa; software **como está**, sem garantia pelo selo.
+**IA é ferramenta aqui.** Se você acha que IA não presta para escrever código, aqui não é o teu lugar. A gente usa todo dia.
 
-**[Tube360](https://github.com/revive360/tube360)**: app nativo de YouTube para o 360, MIT, de [@PedroHenrique0713](https://github.com/PedroHenrique0713). Está na org desde 2026-11-25. A ficha no catálogo e o selo Official chegam com a primeira release feita pelo CI da org; hoje o registro Project do catálogo é um exemplo fictício.
+**Slop também não entra.** Se você joga um prompt e publica o que sair sem ler, aqui também não é o teu lugar. A IA escreve, você lê cada linha, testa num console de verdade e responde pelo que subiu.
 
-Segurança em qualquer nível: resposta em **48 h**, revogação imediata se grave. Releases Project seguem o CI automático após revisão e teste do binário exato em console real; revisão externa por chegada, alvo **14 dias**; Community quando der. Ninguém revisa o próprio app **exceto o fundador Pedro**, inclusive no nível máximo. Veja [checklist e limites](../REVIEW.md).
+**Dá o crédito.** Toolchain, port e biblioteca vêm de quem chegou antes. O nome deles fica nos créditos.
+
+## Três níveis
+
+<img src="../assets/levels.svg" alt="Três níveis: Official, Reviewed, Community" width="100%">
+
+## Apps
+
+<a href="https://github.com/revive360/tube360"><img src="../assets/apps.svg" alt="Tube360" width="100%"></a>
+
+## Chega junto
+
+<p align="center"><a href="https://github.com/revive360/.github/issues/new?template=app.yml"><img src="../assets/btn-app.svg" alt="Trazer o teu app" height="50"></a>&nbsp;&nbsp;<a href="https://github.com/revive360/.github/issues/new?template=join.yml"><img src="../assets/btn-join.svg" alt="Entrar no time" height="50"></a>&nbsp;&nbsp;<a href="#regras"><img src="../assets/btn-rules.svg" alt="Regras da casa" height="50"></a></p>
 
 ## Regras
 
@@ -30,13 +42,27 @@ Segurança em qualquer nível: resposta em **48 h**, revogação imediata se gra
 10. **Aqui tem hierarquia.** Na org quem decide são os donos; no projeto, o mantenedor. Discute à vontade, mas a palavra final é de quem responde por aquilo. Sem isso vira bagunça.
 11. **Sobe quem soma.** Acesso e papel crescem por mérito e contribuição de verdade (qualidade, confiança, presença), por convite de quem já está acima. Não existe conta do tipo “X PRs = vira tal coisa”; não é automático e ninguém sobe porque a cadeira está vazia.
 
-## Cola pra somar
+<details><summary><b>Catálogo, segurança, créditos e contato em detalhe</b></summary>
+
+### Catálogo e três níveis
+
+- **Revive360 Project** — repo dentro de [revive360](https://github.com/revive360), regras/segurança da org, PR revisado e release do CI assinada/atestada; validade contínua enquanto cumprir as regras. Selo de linha verde neon com mascote e medalha exclusiva Project, o mais forte.
+- **Reviewed · vX.Y.Z** — repo do autor, só versão/hash/data revisados. Binário novo ou substituído volta à fila manual de menor prioridade, por chegada (alvo 14 dias); **versão atual não revisada** até o aceite. Autor compila, org confere hash e vínculo com fonte; sem canal de atualização da org. Se o autor sumir, o selo expira.
+- **Community list** — descoberta sem selo: **Não verificado pela Revive360, não é recomendação, use por sua conta e risco.** Pode sair a qualquer momento.
+
+O [catálogo](https://github.com/revive360/catalog) é a fonte da verdade; os selos levam às fichas e mostram válido, versão atual não revisada, expirado ou revogado. Ser membro não é selo. A org assume responsabilidade operacional pelos repos dela e pelas versões externas revisadas, no escopo documentado; repo de membro fora do catálogo é só do autor. Nome/selo sem ficha é uso indevido. Revisão não é auditoria completa; software **como está**, sem garantia pelo selo.
+
+**[Tube360](https://github.com/revive360/tube360)**: app nativo de YouTube para o 360, MIT, de [@PedroHenrique0713](https://github.com/PedroHenrique0713). Está na org desde 2026-11-25. A ficha no catálogo e o selo Official chegam com a primeira release feita pelo CI da org; hoje o registro Project do catálogo é um exemplo fictício.
+
+Segurança em qualquer nível: resposta em **48 h**, revogação imediata se grave. Releases Project seguem o CI automático após revisão e teste do binário exato em console real; revisão externa por chegada, alvo **14 dias**; Community quando der. Ninguém revisa o próprio app **exceto o fundador Pedro**, inclusive no nível máximo. Veja [checklist e limites](../REVIEW.md).
+
+### Cola pra somar
 
 Chega nas [Discussions](https://github.com/orgs/revive360/discussions), mostra o que teu app acrescenta e traz uma parte funcionando. Quando estiver no ponto, abre **App proposal** ou **Join Revive360** no `.github`. Diz quem cuida, qual é a licença e de onde veio cada dependência. Não precisa de carteirinha pra contribuir. Projeto de outra pessoa só entra com o sim dela. Lê [CONTRIBUTING](../CONTRIBUTING.md), [GOVERNANCE](../GOVERNANCE.md) e o [Código de Conduta](../CODE_OF_CONDUCT.md). Pode falar português, inglês ou espanhol.
 
 Ninguém construiu isso sozinho. Salve a [xenosworks](https://github.com/xenosworks), pelos projetos [xsdk](https://github.com/xenosworks/xsdk), [vulkan4xenon](https://github.com/xenosworks/vulkan4xenon) e [SDL-xenon](https://github.com/xenosworks/SDL-xenon), e a [Free60/libxenon](https://github.com/Free60Project/libxenon). A Revive360 complementa esse trabalho e preserva seus créditos.
 
-## Pessoas, risco e contato
+### Pessoas, risco e contato
 
 Hoje só o fundador Pedro é dono da org. Membros entram com acesso mínimo e sobem por histórico; não há promoção automática a dono. DCO obrigatório. O fundador decide mudanças de regras com 14 dias de aviso público; urgências de segurança são imediatas. O autor pode levar seu projeto de volta; arquivamento após 12 meses parado ou por violação. A org não recebe nem divide doações por enquanto.
 
@@ -45,3 +71,9 @@ Hoje só o fundador Pedro é dono da org. Membros entram com acesso mínimo e so
 O canal oficial da comunidade é [Revive360 Discussions](https://github.com/orgs/revive360/discussions), com `.github` como fonte; sem Discord no começo. Categorias: Anúncios, Ideias de apps, Ajuda e Mostre seu projeto. Issues/PRs ficam para bugs acionáveis e registros formais de revisão/entrada. Até dezembro, segurança por private vulnerability reporting e contato público por Discussions.
 
 Xbox e Xbox 360 são marcas da Microsoft. A Revive360 é independente, sem vínculo ou endosso da Microsoft, Google ou dos projetos agradecidos.
+
+</details>
+
+**Homebrew pode causar banimento no Xbox Live, perda de dados e dano ao console; use por sua conta e risco.**
+
+<sub>Xbox e Xbox 360 são marcas da Microsoft. A Revive360 é independente, sem vínculo ou endosso da Microsoft, Google ou dos projetos agradecidos.</sub>
