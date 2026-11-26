@@ -42,6 +42,6 @@ Hoje só o fundador Pedro é dono da org. Membros entram com acesso mínimo e so
 
 **Homebrew pode causar banimento no Xbox Live, perda de dados e dano ao console; use por sua conta e risco.** Nada de coleta sem opt-in; login/tokens ficam no console. Risco dos termos de terceiros é do autor; proibido quebrar DRM/paywall.
 
-O canal oficial da comunidade é [Revive360 Discussions](https://github.com/orgs/revive360/discussions), com `.github` como fonte; sem Discord no começo. Categorias: Anúncios, Ideias de apps, Ajuda e Mostre seu projeto. Issues/PRs ficam para bugs acionáveis e registros formais de revisão/entrada. Até dezembro, segurança por private vulnerability reporting e contato público por Discussions. `CONTACT_DECEMBER_2026_TODO`: inserir depois e-mail/domínio confirmados.
+O canal oficial da comunidade é [Revive360 Discussions](https://github.com/orgs/revive360/discussions), com `.github` como fonte; sem Discord no começo. Categorias: Anúncios, Ideias de apps, Ajuda e Mostre seu projeto. Issues/PRs ficam para bugs acionáveis e registros formais de revisão/entrada. Até dezembro, segurança por private vulnerability reporting e contato público por Discussions.
 
 Xbox e Xbox 360 são marcas da Microsoft. A Revive360 é independente, sem vínculo ou endosso da Microsoft, Google ou dos projetos agradecidos.

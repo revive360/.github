@@ -87,4 +87,4 @@ The author may take the project back to their account. Revoke its Project status
 
 The org currently **receives no donations and splits no donations**. Individual authors' arrangements are theirs and cannot be presented as the org's pool.
 
-Until December 2026 use private vulnerability reporting for security, [official Discussions](https://github.com/orgs/revive360/discussions) for public governance, and a request for a private channel for conduct reports. `CONTACT_DECEMBER_2026_TODO`: add only the owner's confirmed email/domain when available.
+Until December 2026 use private vulnerability reporting for security, [official Discussions](https://github.com/orgs/revive360/discussions) for public governance, and a request for a private channel for conduct reports.

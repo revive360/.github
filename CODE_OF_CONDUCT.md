@@ -37,7 +37,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement by requesting a private channel through [official Discussions](https://github.com/orgs/revive360/discussions) without sharing incident details publicly. All complaints will be reviewed and investigated promptly and fairly. `CONTACT_DECEMBER_2026_TODO`: replace this temporary route with the confirmed private org contact in December.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement by requesting a private channel through [official Discussions](https://github.com/orgs/revive360/discussions) without sharing incident details publicly. All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
