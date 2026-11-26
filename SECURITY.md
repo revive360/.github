@@ -17,5 +17,3 @@ Suspend releases and revoke affected badges immediately. Remove compromised acco
 2FA, reviewed PRs, no force pushes, DCO, secret scanning/push protection, dependency alerts and minimal Actions permissions are mandatory. Third-party Actions use full commit SHAs. Public forks run without secrets on disposable hosted runners; **no self-hosted runners in public repositories**. [SETUP.md](SETUP.md) gives configuration steps.
 
 No hidden collection: explicit opt-in is required and login/tokens remain on the console, outside logs and org services. Reviewed external coverage is only the recorded version/hash/date; new/replaced binaries are not covered. Community listings are unverified but receive the same security response priority.
-
-`CONTACT_DECEMBER_2026_TODO`: replace temporary GitHub routes only after the owner confirms the org email/domain in December.

@@ -25,5 +25,3 @@ Copy these notices before you ship. They belong in **every org app README**, inc
 **Privacidad:** Ninguna recopilación sin opt-in explícito. El inicio de sesión y los tokens permanecen en la consola; no los envíes a Revive360 ni los incluyas en issues/logs. Describe telemetría opcional, finalidad, destino, retención, rechazo y eliminación. Declara "Sin telemetría" cuando sea cierto.
 
 **Responsabilidad:** Responsable: `<cuenta GitHub>`. Licencia: `<licencia abierta>`. Ficha: `<enlace verificado>`. Ser miembro no es certificación. Los términos de terceros son responsabilidad del autor; ningún bypass de DRM/paywall. Seguridad: **Security and quality → Report a vulnerability**. Soporte: [official Discussions](https://github.com/orgs/revive360/discussions).
-
-`CONTACT_DECEMBER_2026_TODO`: add only the confirmed org email/domain in December 2026.

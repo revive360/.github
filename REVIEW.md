@@ -44,5 +44,3 @@ Unauthorized name/badge use is misuse: link to the catalog record or its absence
 ## Temporary contact
 
 Security: affected repo **Security and quality → Report a vulnerability**, or [org private reporting](https://github.com/revive360/.github/security/advisories/new). Public questions: [official Revive360 Discussions](https://github.com/orgs/revive360/discussions), sourced from `.github`. Formal review requests retain their catalog issue records. If private reporting is not enabled, request a private channel without sensitive details.
-
-`CONTACT_DECEMBER_2026_TODO`: replace GitHub routes with the owner's confirmed email/domain in December; none is invented here.
