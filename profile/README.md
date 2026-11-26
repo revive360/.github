@@ -12,7 +12,7 @@
 
 The [catalog](https://github.com/revive360/catalog) is authoritative; badge images link to app records and can be valid, current-version-not-reviewed, expired or revoked. Membership is not a badge. The org takes operational responsibility for its repos and the external versions reviewed within the documented scope; an unlisted member repo is solely the author's. Unauthorized name/badge use is misuse. Review is not a complete audit; software is **as is**, with no badge warranty.
 
-**Tube360** — native YouTube app, MIT, owner [Pedro](https://github.com/PedroHenrique0713). Its [actual repository](https://github.com/PedroHenrique0713/tube360) remains with the author. The local catalog's Project record is explicitly a **demonstration of a future org-hosted state**, not a transfer or live certification. No other real app is listed.
+**[Tube360](https://github.com/revive360/tube360)**: native YouTube app for the 360, MIT, by [@PedroHenrique0713](https://github.com/PedroHenrique0713). It lives in the org since 2026-11-25. Its catalog record and Official badge come with its first release built by the org CI; today the catalog's Project record is a fictional sample.
 
 Security at every level receives a response in **48 hours**, with immediate revocation if severe. Project releases follow the automatic CI flow after review and exact-binary console testing; external reviews target **14 days** FIFO; Community admission is best effort. Nobody reviews their own app **except founder Pedro**, including at the highest level. Read the [checklist and limits](../REVIEW.md).
 

@@ -12,7 +12,7 @@
 
 O [catálogo](https://github.com/revive360/catalog) é a fonte da verdade; os selos levam às fichas e mostram válido, versão atual não revisada, expirado ou revogado. Ser membro não é selo. A org assume responsabilidade operacional pelos repos dela e pelas versões externas revisadas, no escopo documentado; repo de membro fora do catálogo é só do autor. Nome/selo sem ficha é uso indevido. Revisão não é auditoria completa; software **como está**, sem garantia pelo selo.
 
-**Tube360** — app nativo de YouTube, MIT, dono [Pedro](https://github.com/PedroHenrique0713). O [repo real](https://github.com/PedroHenrique0713/tube360) continua na conta do autor. O registro Project no catálogo local é **demonstração de um estado futuro dentro da org**, sem transferência ou certificação real. Nenhum outro app real está listado.
+**[Tube360](https://github.com/revive360/tube360)**: app nativo de YouTube para o 360, MIT, de [@PedroHenrique0713](https://github.com/PedroHenrique0713). Está na org desde 2026-11-25. A ficha no catálogo e o selo Official chegam com a primeira release feita pelo CI da org; hoje o registro Project do catálogo é um exemplo fictício.
 
 Segurança em qualquer nível: resposta em **48 h**, revogação imediata se grave. Releases Project seguem o CI automático após revisão e teste do binário exato em console real; revisão externa por chegada, alvo **14 dias**; Community quando der. Ninguém revisa o próprio app **exceto o fundador Pedro**, inclusive no nível máximo. Veja [checklist e limites](../REVIEW.md).
 
